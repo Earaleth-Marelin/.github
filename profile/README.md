@@ -30,3 +30,30 @@ Although Maormer are known for their historical rivalry with the Altmer (High El
 As a follower in Skyrim, Eäraleth provides a unique perspective and skills, suited for players who enjoy a mysterious and wise companion from an unfamiliar background. Her presence enriches the game with her stories of Pyandonea and her calm demeanor in battle, making her a fitting ally for the Dragonborn.
 
 **Enjoy traveling with Eäraleth Marelin, the Daughter of the Sea, and discover the mysteries of Tamriel together!**
+
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Creator(s)</th>
+  </tr>
+  <tr>
+    <td>Race Creation</td>
+    <td>Esther, Bjoern</td>
+  </tr>
+  <tr>
+    <td>NPC Creation</td>
+    <td>Esther, Bjoern</td>
+  </tr>
+  <tr>
+    <td>Custom Eye Texture</td>
+    <td>Esther</td>
+  </tr>
+  <tr>
+    <td>NPC Face Design</td>
+    <td>Esther</td>
+  </tr>
+  <tr>
+    <td>Dev Env Setup</td>
+    <td>Bjoern</td>
+  </tr>
+</table>
